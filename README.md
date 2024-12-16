@@ -67,9 +67,6 @@ This Jupyter Notebook contains the training and evaluation code for the MobileNe
 - **Errors related to OpenCV or TensorFlow:**
   - Reinstall the dependencies using the command: `pip install tensorflow opencv-python`.
 
-## License
-This project is open-source and free to use.
-
                 
 
 
